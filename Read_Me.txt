@@ -1,0 +1,1 @@
+Now all the data and code are public. We have also attached an example, with corresponding precautions and usage methods in each folder. If you have any questions, you can contact us through the email in the paper. We hope that researchers can actively discuss with us and work together to promote the development of earth science.
